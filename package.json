@@ -1,0 +1,24 @@
+{
+  "name": "billing",
+  "version": "1.0.3",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakuko-mobile/billing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-paper": "^5.9.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
